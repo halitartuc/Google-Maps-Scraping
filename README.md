@@ -1,5 +1,9 @@
 # Google Maps Data Collection Tool
-Download: https://github.com/halitartuc/Google-Maps-Scraping/releases/tag/v.1.0.0
+
+Free Demo Download: 
+https://github.com/halitartuc/Google-Maps-Scraping/releases/tag/v.1.0.0
+
+
 ![Product Image](en.JPG)
 
 ## About the Product
